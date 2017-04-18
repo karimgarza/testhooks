@@ -1,3 +1,0 @@
-#!/bin/sh
-# important that it's got the .exe on the end!
-cmd.exe /c "..\customcommand.bat"

@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 44CE-4E5C
+
+ Directory of C:\git\testhooks
+
+04/18/2017  10:49 AM    <DIR>          .
+04/18/2017  10:49 AM    <DIR>          ..
+04/18/2017  10:49 AM                 5 anotherfile.txt
+04/18/2017  10:40 AM                16 customcommand.bat
+04/18/2017  10:49 AM                 0 test.txt
+               3 File(s)             21 bytes
+               2 Dir(s)  586,205,843,456 bytes free
